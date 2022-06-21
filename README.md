@@ -1,2 +1,0 @@
-# GOITeens1
-homework
